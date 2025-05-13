@@ -418,3 +418,4 @@ st.markdown("---")
 st.markdown(
     "Desenvolvido para análise de campanhas, conjuntos, anúncios e vendas. Suporta arquivos grandes de até 100 mil linhas."
 )
+Adicionar aplicação principal
